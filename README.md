@@ -31,7 +31,7 @@ Open your terminal and navigate to the folder you want the project to be and ent
 npm ci
 ```
 
-Create a `.env` file and add the environment variables described in the [.env.sample file](https://github.com/enyata/merifot-backend/blob/master/.env.sample).
+Create a `.env` file and add the environment variables described in the [.env.sample file](https://github.com/Albert-Osei/task-management-app/blob/main/.env.sample).
 
 ## Starting the dev server
 
@@ -67,6 +67,11 @@ npm run test
 - Node JS
 - Express
 - Postgres
+- REST API
+
+## Documentation
+
+Link to published API documentation: [Postman](https://documenter.getpostman.com/view/15221828/2s9YyyAKgo)
 
 ## 📝 Copyright
 
